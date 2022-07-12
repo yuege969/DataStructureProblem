@@ -1,0 +1,4 @@
+﻿  SequenceList.cpp
+E:\Desktop\学习\考研相关\考研专业课\数据结构\王道辅导书课后习题练习\第2章 线性表\SequenceList\SequenceList\SequenceList.cpp(191,23): warning C4554: “>>”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+E:\Desktop\学习\考研相关\考研专业课\数据结构\王道辅导书课后习题练习\第2章 线性表\SequenceList\SequenceList\SequenceList.cpp(211,16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  SequenceList.vcxproj -> E:\Desktop\学习\考研相关\考研专业课\数据结构\王道辅导书课后习题练习\第2章 线性表\SequenceList\Debug\SequenceList.exe

@@ -1,0 +1,3 @@
+﻿  PastExamPaper10.cpp
+E:\Desktop\学习\考研相关\考研专业课\数据结构\王道辅导书课后习题练习\第2章 线性表\PastExamPaper10\PastExamPaper10\PastExamPaper10.cpp(53,16): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  PastExamPaper10.vcxproj -> E:\Desktop\学习\考研相关\考研专业课\数据结构\王道辅导书课后习题练习\第2章 线性表\PastExamPaper10\Debug\PastExamPaper10.exe
